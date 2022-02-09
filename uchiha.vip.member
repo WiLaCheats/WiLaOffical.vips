@@ -1,0 +1,6 @@
+WRSK = 1
+if WRSK == 0 then
+gg.processKill()
+end
+if WRSK == 1 then
+end
