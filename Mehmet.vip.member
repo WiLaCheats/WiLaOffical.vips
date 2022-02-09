@@ -1,8 +1,0 @@
-WRSK = 1
-if WRSK == 0 then
-gg.processKill()
-gg.alert("⚠️ SCRIPT EXPERIED ⚠️")
-print("⚠️ SCRIPT EXPERIED ⚠️")
-end
-if WRSK == 1 then
-end
