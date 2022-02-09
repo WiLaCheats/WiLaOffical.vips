@@ -1,5 +1,7 @@
 WRSK = 1
 if WRSK == 0 then
+gg.alert("⚠️ SCRIPT EXPERIED ⚠️")
+print("⚠️ SCRIPT EXPERIED ⚠️")
 gg.processKill()
 end
 if WRSK == 1 then
