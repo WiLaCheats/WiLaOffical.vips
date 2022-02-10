@@ -5,4 +5,4 @@ gg.alert("⚠️ SCRIPT EXPERIED ⚠️")
 print("⚠️ SCRIPT EXPERIED ⚠️")
 end
 if WRSK == 1 then
-end
+end --wila
